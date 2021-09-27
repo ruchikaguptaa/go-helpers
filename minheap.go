@@ -1,3 +1,4 @@
+// Referenced from https://pkg.go.dev/container/heap
 package main
 
 import (

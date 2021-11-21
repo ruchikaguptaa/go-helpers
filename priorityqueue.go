@@ -90,3 +90,5 @@ func main() {
 		fmt.Printf("%.2d:%s ", item.priority, item.value)
 	}
 }
+
+// Output: 05:orange 04:pear 03:banana 02:apple
